@@ -1,0 +1,3 @@
+[directories]
+input_file = "inputs/target_videos.txt"
+output_dir = "outputs"
